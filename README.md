@@ -13,6 +13,3 @@ Este projeto realiza a análise de sentenças utilizando uma IA. Ele permite ext
 - Algumas sentenças demonstraram tendências de...
 - Possibilidades futuras incluem...  
 
-## 🖼 Prints do Processo  
-(Adicione aqui imagens do código, gráficos gerados ou prints de execução.)  
-
